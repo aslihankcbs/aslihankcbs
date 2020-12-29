@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a software engineer. I love to share what I have learned and to learn new things.
+I’m a software engineer. I love to learn new things and share what I have learned.
 
 🌱 I’m currently learning JavaEE technologies.
 
