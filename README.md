@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 
-I’m a software engineer. I love to learn new things and share what I have learned. I am also a graduate  student at Gazi University Information Security Engineering.
+I’m a software engineer. I love to learn new things and share what I have learned. 
 
-🌱 I’m currently learning JavaEE technologies, Big Data, Apache Spark, Python and Deep Learning.
+🌱 I’m currently learning JavaEE technologies.
 
 ✨ My interests:
     Front-end: HTML5, CSS3, JavaScript, ReactJS and Redux
