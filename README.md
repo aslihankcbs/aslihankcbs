@@ -3,7 +3,7 @@
 
 I’m a software engineer. I love to learn new things and share what I have learned. 
 
-🌱 I’m currently learning JavaEE technologies.
+🌱 I’m currently improving myself on backend technology.
 
 ✨ My interests:
     Front-end: HTML5, CSS3, JavaScript, ReactJS and Redux
