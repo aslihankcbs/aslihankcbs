@@ -5,8 +5,7 @@ Software engineer with over four years of experience across diverse domains incl
 🌱 I’m currently improving myself on backend technology.
 
 ✨ My interests:
-    Front-end: HTML5, CSS3, JavaScript, ReactJS, JSP
-    Back-end: Java, Spring, Spring Boot, PostgreSQL 
+  Java, Spring, PostgreSQL, Architecture  
     
 ![](https://komarev.com/ghpvc/?username=aslihankcbs&color=blueviolet)    
 ![](https://github-readme-stats.vercel.app/api?username=aslihankcbs&theme=tokyonight)
