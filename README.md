@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-Software engineer with over four years of experience across diverse domains including defense industry and cyber security. Demonstrated excellence in soft skills, encompassing customer experience, communication, and mentoring. 
+Experienced Software Engineer specializing in backend technologies like Java and Spring Boot, with a proven track record in delivering top-tier software solutions using agile methodologies. Enthusiastic about hands-on lead roles, leveraging leadership skills and mentoring capabilities to inspire and guide teams. Passionate about encouraging teamwork to drive creativity and performance.
 
-🌱 I’m currently improving myself on backend technology.
+🌱 I’m currently improving my skills in distributed systems, software architecture, and cloud.
 
 ✨ My interests:
   Java, Spring, PostgreSQL, Architecture  
